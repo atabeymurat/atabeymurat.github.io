@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Murat Airlines</title>
+<!-- TemplateEndEditable -->
+<link href="../stil.css" rel="stylesheet" type="text/css" />
+
+<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="../engine1/style.css" />
+	<script type="text/javascript" src="../engine1/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable -->
+<div id="container">
+<header id="res"><img src="../images1.jpg" width="700" height="210" /></header>
+  <nav>
+<ul>
+      <li><a href="../index.html">Anasayfa</a></li>
+      <li><a href="#">Uçaklarımız</a></li>
+      <li><a href="#">Galerimiz</a></li>
+      <li><a href="#">Hakkımızda</a></li>
+      <li><a href="#">İletişim</a></li> 
+  </nav>
+  <footer id="kynn">
+    <marquee direction="left" height="50px" scrolldelay="100" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+    Yolculuklarımızda %25 İndirimimiz Bulunmaktadır.  <br> <br>
+    </marquee>
+
+  </footer>
+  <section>
+  	<aside>
+      <div>
+        <p class="yan_menu_baslik">Firmamız</p>
+        <ul>
+        <li><a href="#">Uçaklarımız</a></li>
+        <li><a href="#">Tarihimiz</a></li>
+        <li><a href="#">Galeri</a></li>
+        <li><a href="#">Havalimanlarımız</a></li>
+        <li><a href="#">İletişim</a></li>
+        <li><a href="#">Müşteri Hizmetleri</a></li>
+      </ul>
+      </div>
+      <div>
+        <p class="yan_menu_baslik">Uçaklarımız</p>
+        <img src="../images1.jpg" width="179" height="93" >
+        &nbsp;&nbsp;Kargo uçağı sayısı: 30 <br> <br>
+        &nbsp;&nbsp;Yolcu uçağı sayfası:50 <br> <br>
+        &nbsp;&nbsp;Pülanör :20 <br> <br>
+       </div>
+    </aside>
+    <article>
+        
+</body><!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+    <div class="ws_images"><ul>
+        <li><img src="../res/res1.jpg" alt="slider" title="" id="wows1_0"/></li>
+        <li><img src="../res/res2.jpg" alt="html slideshow" title="" id="wows1_1"/></a></li>
+        <li><img src="../res/res3.jpg" alt="slider3" title="" id="wows1_2"/></li>
+    </ul></div>
+    <div class="ws_bullets"><div>
+        <a href="#" title="slider"><span><img src="../data1/tooltips/slider.png" alt="slider"/>1</span></a>
+        <a href="#" title="slider2"><span><img src="../data1/tooltips/slider2.png" alt="slider2"/>2</span></a>
+        <a href="#" title="slider3"><span><img src="../data1/tooltips/slider3.png" alt="slider3"/>3</span></a>
+    </div></div>
+    <div class="ws_shadow"></div>
+    </div>	
+    <script type="text/javascript" src="../engine1/wowslider.js"></script>
+    <script type="text/javascript" src="../engine1/script.js"></script>
+    <!-- End WOWSlider.com BODY section -->
+    </article>
+    <aside>
+      <div>
+     
+        <p class="yan_menu_baslik">Gerekenler</p>
+        <marquee direction="up" height="151px" scrolldelay="100" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+          1)  Uçak bileti nasıl alınır?
+          Özel havayollarının kurulması ile uçak bileti fiyatları havayolları arasında kıyasıya rekabet ile sunuluyor. Uçak bileti satın alırken en uygun fiyata seyahat etmek için hangi havayolunu tercih edeceğinizi karşılaştırma siteleri aracılığıyla belirleyebilirsiniz. Tercihinizi yaptıktan sonra uçak biletinizi internet üzerinden ya da yakınınızdaki bir seyahat acentesinden satın alabilirsiniz.       <br> <br>     
+2)  Bagaj hazırlık
+Uçak yolculuğunuz sırasında yanınıza iki tür bagaj alabilirsiniz. Normalde yolcu bagajı olarak adlandırılan ve genellikle 15-20 kg’ya kadar ücretsiz olarak uçak altında sizin adınıza taşınan bu bagajı, görevlilere check-in sırasında teslim ederek uçuş sonrasında alabilirsiniz. <br> <br>
+3)Check-in İşlemleri
+İlk yolculuğunuz olduğu için bu tabir size yabancı gelebilir. Check-in, biletini internetten ya da acenteden almış olan yolcunun havalimanında ilgili havayolu ofisine uğrayarak oturacağı yerin belirlendiği, kimlik doğrulamanın yapıldığı, biniş kartının yolcuya verildiği ve yolcunun bagajını teslim ederek bagaj fişini aldığı işlemlere verilen isimdir. <br> <br>
+4)Uçakta seyahat
+Uçakta koltuğunuza oturduktan sonra kabin bagajınızı koltukların üzerinde bulunan dolaplara yerleştirebilirsiniz. Uçak içerisinde uyulacak kurallar, uçağın ne zaman havalanacağı, ne zaman varacağı, gideceğiniz yerdeki hava durumu gibi tüm bilgiler artık size anons ediliyor olacak. Bundan sonrasında anonsları dinleyerek uçak yolculuğunuzun keyfini çıkarabilirsiniz. <br> <br>
+5)arış
+Uçak yere indikten sonra uçağın kapısı açılana kadar bekleyiniz. Diğer yolcuları takip ederek yolcu bagajınızın geleceği salona kadar gidebilirsiniz. Burada bir süre bagajınızı beklemeniz gerekecek. Bagajınızın nereye geleceğini ise tabelalar aracılığı ile ayırt edebilirsiniz. <br> <br>
+</marquee>
+      </div>
+      <div>
+        <p class="yan_menu_baslik">İletişim</p>
+        <ul>
+          <li><a href="#">Kişisel No: 0123 456 7890</a></li> <br> <br>
+          <li><a href="#">Havalimanı Almak İçin: 789 456 1230</a></li> <br> <br>
+          <li><a href="#">Müşteri Hizmetleri: 456 123 9456</a></li> <br> <br>
+        </ul>
+      </div>   
+    </aside>
+  </section>
+  <footer id="kyn">
+    <marquee direction="right" height="50px" scrolldelay="100" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+      Can Güvenliğiniz İçin Emniyet Kemerinizi Takınız. <br> <br>
+  </footer>
+  <article></article>
+</div>
+</html>
